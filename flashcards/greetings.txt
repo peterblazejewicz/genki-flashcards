@@ -1,19 +1,19 @@
 // Genki One/Greetings
-おはよう		Good morning
-おはよう　ございます		Good morning (polite)
-こんにちは		Good afternoon
-こんばんは		Good evening
-さようなら		Good-bye
-おやすみ（なさい）		Good night
-ありがとう		Thank you
-ありがとう　ございます		Thank you (polite)
-すみません		Excuse me; I'm sorry
-いいえ		No; Not at all
-いってきます		I'll go and come back
-いってらしっしゃい		PLease go and come back
-ただいま		I'm home
-おかえり（なさい）		Welcome home
-いただきます		Thank you for the meal (before eating)
-ごちそうさま（でした）		Thank you for the meal (after eating)
-はじめまして		How do you do?
-よろしく　おねがいします		Nice to meet you
+おはよう[おはよう]	おはよう	Good morning
+おはよう　ございます[おはよう　ございます]	おはよう　ございます	Good morning (polite)
+こんにちは[こんにちは]	こんにちは	Good afternoon
+こんばんは[こんばんは]	こんばんは	Good evening
+さようなら[さようなら]	さようなら	Good-bye
+おやすみ（なさい）[おやすみ（なさい）]	おやすみなさい	Good night
+ありがとう[ありがとう]	ありがとう	Thank you
+ありがとう　ございます[ありがとう　ございます]	ありがとう　ございます	Thank you (polite)
+すみません[すみません]	すみません	Excuse me; I'm sorry
+いいえ[いいえ]	いいえ	No; Not at all
+いってきます[いってきます]	いってきます	I'll go and come back
+いってらしっしゃい[いってらしっしゃい]	いってらしっしゃい	PLease go and come back
+ただいま[ただいま]	ただいま	I'm home
+おかえり（なさい）[おかえり（なさい）]	おかえりなさい	Welcome home
+いただきます[いただきます]	いただきます	Thank you for the meal (before eating)
+ごちそうさま（でした）[ごちそうさま（でした）]	ごちそうさまでした	Thank you for the meal (after eating)
+はじめまして[はじめまして]	はじめまして	How do you do?
+よろしく　おねがいします[よろしく　おねがいします]	よろしく　おねがいします	Nice to meet you

@@ -1,60 +1,62 @@
-// Genki One/Lesson One
-あの		um…
-いま		now
-えいご		English
-ええ		yes
-がくせい		student
-〜ご		…language ex. にほんご Japanese
-こうこう		high school
-ごご		P.M.
-ごぜん		A.M.
-〜さい		…years old
-〜さん		Mr./Ms.…
-〜じ		o'clock ex. いちじ one o'clock
-〜じん		…people ex. にほんじん Japanese people
-せんこう		major
-せんせい		teacher; Professor…
-そうです		That's right
-そうですか		I see; Is that so?
-だいがく		college; university
-でんわ		telephone
-ともだち		friend
-なまえ		name
-なん／なに		what
-にほん		Japan
-〜ねんせい		…year student ex. いちねんせい first-year student
-はい		yes
-はん		half ex. にじはん half past two
-ばんごう		number
-りゅうがくせい		international student
-わたし		I
-アメリカ		U.S.A.
-イギリス		Britain
-オーストラリア		Australia
-かんこく		Korea
-スウェーデン		Sweden
-ちゅうごく		China
-かがく		science
-アジアけんきゅう		Asian studies
-けいざい		economics
-こくさいかんけい		international relations
-コンピューター		computer
-じんるいがく		anthropology
-せいじ		politics
-ビジネス		business
-ぶんがく		literature
-れきし		history
-しごと		job; work; occupation
-いしゃ		doctor
-かいしゃいん		office worker
-こうこうせい		high school student
-しゅふ		housewife
-だいがくいんせい		graduate student
-だいがくせい		college student
-べんごし		lawyer
-おかあさん		mother
-おとうさん		father
-おねえさん		older sister
-おにいさん		older brother
-いもうと		younger sister
-おとうと		younger brother
+// Genki One/Lesson One/Vocabulary
+あの[あの]	あの	um…
+いま[いま]	いま	now
+えいご[えいご]	えいご	English
+ええ[ええ]	ええ	yes
+がくせい[がくせい]	がくせい	student
+〜ご[〜ご]	〜ご	…language ex. にほんご Japanese
+こうこう[こうこう]	こうこう	high school
+ごご[ごご]	ごご	P.M.
+ごぜん[ごぜん]	ごぜん	A.M.
+〜さい[〜さい]	〜さい	…years old
+〜さん[〜さん]	〜さん	Mr./Ms.…
+〜じ[〜じ]	〜じ	o'clock ex. いちじ one o'clock
+〜じん[〜じん]	〜じん	…people ex. にほんじん Japanese people
+せんこう[せんこう]	せんこう	major
+せんせい[せんせい]	せんせい	teacher; Professor…
+そうです[そうです]	そうです	That's right
+そうですか[そうですか]	そうですか	I see; Is that so?
+だいがく[だいがく]	だいがく	college; university
+でんわ[でんわ]	でんわ	telephone
+ともだち[ともだち]	ともだち	friend
+なまえ[なまえ]	なまえ	name
+なん[なん]	なん	what
+なに[なに]	なに	what
+にほん[にほん]	にほん	Japan
+〜ねんせい[〜ねんせい]	〜ねんせい	…year student ex. いちねんせい first-year student
+はい[はい]	はい	yes
+はん[はん]	はん	half ex. にじはん half past two
+ばんごう[ばんごう]	ばんごう	number
+りゅうがくせい[りゅうがくせい]	りゅうがくせい	international student
+わたし[わたし]	わたし	I
+// Genki One/Lesson One/Additional Vocabulary
+アメリカ[アメリカ]	あめりか	U.S.A.
+イギリス[イギリス]	いぎりす	Britain
+オーストラリア[オーストラリア]	おおすとらりあ	Australia
+かんこく[かんこく]	かんこく	Korea
+スウェーデン[スウェーデン]	すうぇえでん	Sweden
+ちゅうごく[ちゅうごく]	ちゅうごく	China
+かがく[かがく]	かがく	science
+アジアけんきゅう[アジアけんきゅう]	アジアけんきゅう	Asian studies
+けいざい[けいざい]	けいざい	economics
+こくさいかんけい[こくさいかんけい]	こくさいかんけい	international relations
+コンピューター[コンピューター]	こんぴゅうたあ	computer
+じんるいがく[じんるいがく]	じんるいがく	anthropology
+せいじ[せいじ]	せいじ	politics
+ビジネス[ビジネス]	びじねす	business
+ぶんがく[ぶんがく]	ぶんがく	literature
+れきし[れきし]	れきし	history
+しごと[しごと]	しごと	job; work; occupation
+いしゃ[いしゃ]	いしゃ	doctor
+かいしゃいん[かいしゃいん]	かいしゃいん	office worker
+こうこうせい[こうこうせい]	こうこうせい	high school student
+しゅふ[しゅふ]	しゅふ	housewife
+だいがくいんせい[だいがくいんせい]	だいがくいんせい	graduate student
+だいがくせい[だいがくせい]	だいがくせい	college student
+べんごし[べんごし]	べんごし	lawyer
+おかあさん[おかあさん]	おかあさん	mother
+おとうさん[おとうさん]	おとうさん	father
+おねえさん[おねえさん]	おねえさん	older sister
+おにいさん[おにいさん]	おにいさん	older brother
+いもうと[いもうと]	いもうと	younger sister
+おとうと[おとうと]	おとうと	younger brother
