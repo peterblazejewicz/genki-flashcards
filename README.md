@@ -16,17 +16,27 @@ Flash cards are written in format supported by Pleco Software Chinese Dictionary
 
 Where are these files?
 ----------------------
-Flash cards are available as separate files within "flashcards" folder. In future these files will be also available as one single file with multiple categories comments added within text:
+Flash cards are available as separate files within "flashcards" folder. In future these files will be also available as one single file named [genki-one-for-pleco.txt](https://raw.github.com/peterblazejewicz/genki-flashcards/master/flashcards/genki-one-for-pleco.txt "genki-one-for-pleco.txt") with multiple categories comments added within text:
 
 ```
 // Genki One/Greetings
-おはよう		Good morning
-...
-はじめまして		How do you do?
-よろしく　おねがいします		Nice to meet you
-// Genki One/Lesson One
-あの		Uhm
-...
+おはよう[おはよう]  おはよう    Good morning
+おはよう　ございます[おはよう　ございます]  おはよう　ございます  Good morning (polite)
+こんにちは[こんにちは]    こんにちは   Good afternoon
+こんばんは[こんばんは]    こんばんは   Good evening
+[...]
+// Genki One/Lesson One/Vocabulary
+あの[あの]  あの  um…
+いま[いま]  いま  now
+えいご[えいご]    えいご English
+ええ[ええ]  ええ  yes
+[...]
+// Genki One/Lesson One/Additional Vocabulary
+アメリカ[アメリカ]  あめりか    U.S.A.
+イギリス[イギリス]  いぎりす    Britain
+オーストラリア[オーストラリア]    おおすとらりあ Australia
+かんこく[かんこく]  かんこく    Korea
+[...]
 ```
 
 so Pleco Chinese Dictionary will read these categories during cards import.
