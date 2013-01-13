@@ -1,0 +1,81 @@
+// Genki One/Greetings
+おはよう[おはよう]	おはよう	Good morning
+おはよう　ございます[おはよう　ございます]	おはよう　ございます	Good morning (polite)
+こんにちは[こんにちは]	こんにちは	Good afternoon
+こんばんは[こんばんは]	こんばんは	Good evening
+さようなら[さようなら]	さようなら	Good-bye
+おやすみ（なさい）[おやすみ（なさい）]	おやすみなさい	Good night
+ありがとう[ありがとう]	ありがとう	Thank you
+ありがとう　ございます[ありがとう　ございます]	ありがとう　ございます	Thank you (polite)
+すみません[すみません]	すみません	Excuse me; I'm sorry
+いいえ[いいえ]	いいえ	No; Not at all
+いってきます[いってきます]	いってきます	I'll go and come back
+いってらしっしゃい[いってらしっしゃい]	いってらしっしゃい	PLease go and come back
+ただいま[ただいま]	ただいま	I'm home
+おかえり（なさい）[おかえり（なさい）]	おかえりなさい	Welcome home
+いただきます[いただきます]	いただきます	Thank you for the meal (before eating)
+ごちそうさま（でした）[ごちそうさま（でした）]	ごちそうさまでした	Thank you for the meal (after eating)
+はじめまして[はじめまして]	はじめまして	How do you do?
+よろしく　おねがいします[よろしく　おねがいします]	よろしく　おねがいします	Nice to meet you
+// Genki One/Lesson One/Vocabulary
+あの[あの]	あの	um…
+いま[いま]	いま	now
+えいご[えいご]	えいご	English
+ええ[ええ]	ええ	yes
+がくせい[がくせい]	がくせい	student
+〜ご[〜ご]	〜ご	…language ex. にほんご Japanese
+こうこう[こうこう]	こうこう	high school
+ごご[ごご]	ごご	P.M.
+ごぜん[ごぜん]	ごぜん	A.M.
+〜さい[〜さい]	〜さい	…years old
+〜さん[〜さん]	〜さん	Mr./Ms.…
+〜じ[〜じ]	〜じ	o'clock ex. いちじ one o'clock
+〜じん[〜じん]	〜じん	…people ex. にほんじん Japanese people
+せんこう[せんこう]	せんこう	major
+せんせい[せんせい]	せんせい	teacher; Professor…
+そうです[そうです]	そうです	That's right
+そうですか[そうですか]	そうですか	I see; Is that so?
+だいがく[だいがく]	だいがく	college; university
+でんわ[でんわ]	でんわ	telephone
+ともだち[ともだち]	ともだち	friend
+なまえ[なまえ]	なまえ	name
+なん[なん]	なん	what
+なに[なに]	なに	what
+にほん[にほん]	にほん	Japan
+〜ねんせい[〜ねんせい]	〜ねんせい	…year student ex. いちねんせい first-year student
+はい[はい]	はい	yes
+はん[はん]	はん	half ex. にじはん half past two
+ばんごう[ばんごう]	ばんごう	number
+りゅうがくせい[りゅうがくせい]	りゅうがくせい	international student
+わたし[わたし]	わたし	I
+// Genki One/Lesson One/Additional Vocabulary
+アメリカ[アメリカ]	あめりか	U.S.A.
+イギリス[イギリス]	いぎりす	Britain
+オーストラリア[オーストラリア]	おおすとらりあ	Australia
+かんこく[かんこく]	かんこく	Korea
+スウェーデン[スウェーデン]	すうぇえでん	Sweden
+ちゅうごく[ちゅうごく]	ちゅうごく	China
+かがく[かがく]	かがく	science
+アジアけんきゅう[アジアけんきゅう]	アジアけんきゅう	Asian studies
+けいざい[けいざい]	けいざい	economics
+こくさいかんけい[こくさいかんけい]	こくさいかんけい	international relations
+コンピューター[コンピューター]	こんぴゅうたあ	computer
+じんるいがく[じんるいがく]	じんるいがく	anthropology
+せいじ[せいじ]	せいじ	politics
+ビジネス[ビジネス]	びじねす	business
+ぶんがく[ぶんがく]	ぶんがく	literature
+れきし[れきし]	れきし	history
+しごと[しごと]	しごと	job; work; occupation
+いしゃ[いしゃ]	いしゃ	doctor
+かいしゃいん[かいしゃいん]	かいしゃいん	office worker
+こうこうせい[こうこうせい]	こうこうせい	high school student
+しゅふ[しゅふ]	しゅふ	housewife
+だいがくいんせい[だいがくいんせい]	だいがくいんせい	graduate student
+だいがくせい[だいがくせい]	だいがくせい	college student
+べんごし[べんごし]	べんごし	lawyer
+おかあさん[おかあさん]	おかあさん	mother
+おとうさん[おとうさん]	おとうさん	father
+おねえさん[おねえさん]	おねえさん	older sister
+おにいさん[おにいさん]	おにいさん	older brother
+いもうと[いもうと]	いもうと	younger sister
+おとうと[おとうと]	おとうと	younger brother
