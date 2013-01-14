@@ -10,7 +10,7 @@
 すみません[すみません]	すみません	Excuse me; I'm sorry
 いいえ[いいえ]	いいえ	No; Not at all
 いってきます[いってきます]	いってきます	I'll go and come back
-いってらしっしゃい[いってらしっしゃい]	いってらしっしゃい	PLease go and come back
+いってらっしゃい[いってらっしゃい]	いってらっしゃい	Please go and come back
 ただいま[ただいま]	ただいま	I'm home
 おかえり（なさい）[おかえり（なさい）]	おかえりなさい	Welcome home
 いただきます[いただきます]	いただきます	Thank you for the meal (before eating)
