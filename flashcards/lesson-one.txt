@@ -29,13 +29,14 @@
 ばんごう[ばんごう]	ばんごう	number
 りゅうがくせい[りゅうがくせい]	りゅうがくせい	international student
 わたし[わたし]	わたし	I
-// Genki One/Lesson One/Additional Vocabulary
+// Genki One/Lesson One/Countries
 アメリカ[アメリカ]	あめりか	U.S.A.
 イギリス[イギリス]	いぎりす	Britain
 オーストラリア[オーストラリア]	おおすとらりあ	Australia
 かんこく[かんこく]	かんこく	Korea
 スウェーデン[スウェーデン]	すうぇえでん	Sweden
 ちゅうごく[ちゅうごく]	ちゅうごく	China
+// Genki One/Lesson One/Majors
 かがく[かがく]	かがく	science
 アジアけんきゅう[アジアけんきゅう]	アジアけんきゅう	Asian studies
 けいざい[けいざい]	けいざい	economics
@@ -46,6 +47,7 @@
 ビジネス[ビジネス]	びじねす	business
 ぶんがく[ぶんがく]	ぶんがく	literature
 れきし[れきし]	れきし	history
+// Genki One/Lesson One/Occupations
 しごと[しごと]	しごと	job; work; occupation
 いしゃ[いしゃ]	いしゃ	doctor
 かいしゃいん[かいしゃいん]	かいしゃいん	office worker
@@ -54,6 +56,7 @@
 だいがくいんせい[だいがくいんせい]	だいがくいんせい	graduate student
 だいがくせい[だいがくせい]	だいがくせい	college student
 べんごし[べんごし]	べんごし	lawyer
+// Genki One/Lesson One/Family
 おかあさん[おかあさん]	おかあさん	mother
 おとうさん[おとうさん]	おとうさん	father
 おねえさん[おねえさん]	おねえさん	older sister
