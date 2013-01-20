@@ -1,19 +1,19 @@
 // Genki One/Lesson One/Vocabulary
-あの[あの]	あの	um…
+あの[あの]	あの	um ...
 いま[いま]	いま	now
 えいご[えいご]	えいご	English
 ええ[ええ]	ええ	yes
 がくせい[がくせい]	がくせい	student
-~ご[~ご]	~ご	…language ex. にほんご Japanese
+~ご[~ご]	~ご	~language ex. にほんご Japanese
 こうこう[こうこう]	こうこう	high school
 ごご[ごご]	ごご	P.M.
 ごぜん[ごぜん]	ごぜん	A.M.
-~さい[~さい]	~さい	…years old
-~さん[~さん]	~さん	Mr./Ms.…
+~さい[~さい]	~さい	... years old
+~さん[~さん]	~さん	Mr./Ms. ...
 ~じ[~じ]	~じ	o'clock ex. いちじ one o'clock
-~じん[~じん]	~じん	…people ex. にほんじん Japanese people
+~じん[~じん]	~じん	... people ex. にほんじん Japanese people
 せんこう[せんこう]	せんこう	major
-せんせい[せんせい]	せんせい	teacher; Professor…
+せんせい[せんせい]	せんせい	teacher; Professor ...
 そうです[そうです]	そうです	That's right
 そうですか[そうですか]	そうですか	I see; Is that so?
 だいがく[だいがく]	だいがく	college; university
@@ -23,7 +23,7 @@
 なん[なん]	なん	what
 なに[なに]	なに	what
 にほん[にほん]	にほん	Japan
-~ねんせい[~ねんせい]	~ねんせい	…year student ex. いちねんせい first-year student
+~ねんせい[~ねんせい]	~ねんせい	... year student ex. いちねんせい first-year student
 はい[はい]	はい	yes
 はん[はん]	はん	half ex. にじはん half past two
 ばんごう[ばんごう]	ばんごう	number
