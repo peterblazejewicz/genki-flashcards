@@ -63,3 +63,18 @@
 おにいさん[おにいさん]	おにいさん	older brother
 いもうと[いもうと]	いもうと	younger sister
 おとうと[おとうと]	おとうと	younger brother
+// Genki One/Lesson One/Japanese Names
+さとお[さとお]	さとお	Satoo family name
+すずき[すずき]	すずき	Suzuki family name
+たかはし[たかはし]	たかはし	Takahashi family name
+いとう[いとう]	いとう	Itoo family name
+たくや[たくや]	たくや	Takuya given name for men
+しょうた[しょうた]	しょうた	Shoota given name for men
+いちろう[いちろう]	いちろう	Ichiroo given name for men
+ひろし[ひろし]	ひろし	Hiroshi given name for men
+まさひろ[まさひろ]	まさひろ	Masahiro given name for men
+えりか[えりか]	えりか	Erika given name for women
+あい[あい]	あい	Ai given name for women
+なおみ[なおみ]	なおみ	Naomi given name for women
+ゆうこ[ゆうこ]	ゆうこ	Yuuko given name for women
+みさき[みさき]	みさき	Misaki given name for women
