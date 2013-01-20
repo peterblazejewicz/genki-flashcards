@@ -48,13 +48,14 @@
 ばんごう[ばんごう]	ばんごう	number
 りゅうがくせい[りゅうがくせい]	りゅうがくせい	international student
 わたし[わたし]	わたし	I
-// Genki One/Lesson One/Additional Vocabulary
+// Genki One/Lesson One/Countries
 アメリカ[アメリカ]	あめりか	U.S.A.
 イギリス[イギリス]	いぎりす	Britain
 オーストラリア[オーストラリア]	おおすとらりあ	Australia
 かんこく[かんこく]	かんこく	Korea
 スウェーデン[スウェーデン]	すうぇえでん	Sweden
 ちゅうごく[ちゅうごく]	ちゅうごく	China
+// Genki One/Lesson One/Majors
 かがく[かがく]	かがく	science
 アジアけんきゅう[アジアけんきゅう]	アジアけんきゅう	Asian studies
 けいざい[けいざい]	けいざい	economics
@@ -65,6 +66,7 @@
 ビジネス[ビジネス]	びじねす	business
 ぶんがく[ぶんがく]	ぶんがく	literature
 れきし[れきし]	れきし	history
+// Genki One/Lesson One/Occupations
 しごと[しごと]	しごと	job; work; occupation
 いしゃ[いしゃ]	いしゃ	doctor
 かいしゃいん[かいしゃいん]	かいしゃいん	office worker
@@ -73,9 +75,77 @@
 だいがくいんせい[だいがくいんせい]	だいがくいんせい	graduate student
 だいがくせい[だいがくせい]	だいがくせい	college student
 べんごし[べんごし]	べんごし	lawyer
+// Genki One/Lesson One/Family
 おかあさん[おかあさん]	おかあさん	mother
 おとうさん[おとうさん]	おとうさん	father
 おねえさん[おねえさん]	おねえさん	older sister
 おにいさん[おにいさん]	おにいさん	older brother
 いもうと[いもうと]	いもうと	younger sister
 おとうと[おとうと]	おとうと	younger brother
+// Genki One/Lesson Two/Words that point
+これ[これ]	これ	this one
+それ[それ]	それ	that one
+あれ[あれ]	それ	that one over there
+どれ[どれ]	どれ	which one
+この[この]	この	this ...
+その[その]	その	that ...
+あの[あの]	あの	that ... over there
+どの[どの]	どの	which ...
+ここ[ここ]	ここ	here
+そこ[そこ]	そこ	there
+あそこ[あそこ]	あそこ	over there
+どこ[どこ]	どこ	where
+だれ[だれ]	だれ	who
+// Genki One/Lesson Two/Food
+おいしい[おいしい]	おいしい	delicious
+さかな[さかな]	さかな	fish
+とんかつ[とんかつ]	とんかつ	pork cutlet
+にく[にく]	にく	meat
+メニュー[メニュー]	めにゅう	menu
+やさい[やさい]	やさい	vegetable
+// Genki One/Lesson Two/Things
+えんぴつ[えんぴつ]	えんぴつ	pencil
+かさ[かさ]	かさ	umbrella
+かばん[かばん]	かばん	bag
+くつ[くつ]	くつ	shoes
+さいふ[さいふ]	さいふ	wallet
+ジーンズ[ジーンズ]	じいんず	jeans
+じしょ[じしょ]	じしょ	dictionary
+じてんしゃ[じてんしゃ]	じてんしゃ	bicycle
+しんぶん[しんぶん]	しんぶん	newspaper
+Tシャツ[Tシャツ]	てぃいしゃつ	T-shirt
+とけい[とけい]	とけい	watch; clock
+ノート[ノート]	のおと	notebook
+ペン[ペン]	ぺん	pen
+ぼうし[ぼうし]	ぼうし	hat; cap
+ほん[ほん]	ほん	book
+// Genki One/Lesson Two/Places
+きっさてん[きっさてん]	きっさてん	cafe
+ぎんこう[ぎんこう]	ぎんこう	bank
+トイレ[トイレ]	といれ	toilet; restroom
+としょかん[としょかん]	としょかん	library
+ゆうびんきょく[ゆうびんきょく]	ゆうびんきょく	post office
+// Genki One/Lesson Two/Countries
+アメリカ[アメリカ]	あめりか	U.S.A.
+イギリス[イギリス]	いぎりす	Britain
+かんこく[かんこく]	かんこく	Korea
+ちゅうごく[ちゅうごく]	ちゅうごく	China
+// Genki One/Lesson Two/Majors
+けいざい[けいざい]	けいざい	economics
+コンピューター[コンピューター]	こんぴゅうたあ	computer
+ビジネス[ビジネス]	びじねす	business
+れきし[れきし]	れきし	history
+// Genki One/Lesson Two/Family
+おかあそん[おかあそん]	おかあそん	mother
+おとうさん[おとうさん]	おとうさん	father
+// Genki One/Lesson Two/Money Matters
+いくら[いくら]	いくら	how much
+~えん[~えん]	えん	yen
+たかい[たかい]	たかい	expensive; heigh
+// Genki One/Lesson Two/Expressions
+いらっしゃいませ[いらっしゃいませ]	いらっしゃいませ	Welcome (to our place/store)
+(~を)おねがいします[(~を)おねがいします]	(~を)おねがいします	..., please.
+(~を)ください[(~を)ください]	(~を)ください	Please give me ...
+じゃあ[じゃあ]	じゃあ	then ...; if that is the case, ...
+でうぞ[でうぞ]	でうぞ	Please; Here it is
+どうも[どうも]	どうも	Thank you.
