@@ -65,3 +65,26 @@ Tシャツ[Tシャツ]	てぃいしゃつ	T-shirt
 じゃあ[じゃあ]	じゃあ	then ...; if that is the case, ...
 でうぞ[でうぞ]	でうぞ	Please; Here it is
 どうも[どうも]	どうも	Thank you.
+// Genki One/Lesson Two/Classroom
+きょうしつ[きょうしつ]	きょうしつ	classroom
+でんき[でんき]	でんき	electric light
+こくばん[こくばん]	こくばん	blackboard
+ドア[ドア]	どあ	door
+カーテン[カーテン]	かあてん	curtain, curtains
+まど[まど]	まど	window
+ほん[ほん]	ほん	book
+じしょ[じしょ]	じしょ	dictionary
+えんぴつ[えんぴつ]	えんぴつ	pencil
+ペン[ペン]	ぺん	pen
+けしゴム[けしゴム]	けしごむ	eraser
+いす[いす]	いす	chair
+つくえ[つくえ]	つくえ	table, desk
+かばん[かばん]	かばん	bag, suitcase
+わかりましたか。[わかりましたか。]	わかりましたか	Do you understand?
+わかりました。[わかりました。]	わかりました	I understand./I understood.
+わかりません。[わかりません。]	わかりません	I don't understand./I don't know.
+ゆっくりいってください。[ゆっくりいってください。]	ゆっくりいってください	Please say it slowly.
+もういちどいってください。[もういちどいってください。]	もういちどいってください	Please say it again.
+ちょっとまってください。[ちょっとまってください。]	ちょっとまってください	Please wait.
+きってください。[きってください。]	きってください	Please listen./Please ask.
+１０ページをみてください。[１０ページをみてください。]	１０ページをみてください	Please loot at page 10.

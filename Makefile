@@ -6,7 +6,7 @@ HR=\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\
 #
 build:
 	@echo "\n${HR}"
-	@echo "To build specific flash card type \nplease one of available non-defualt target"
+	@echo "To build specific flash card type \nplease one of available non-default target"
 	@echo "${HR}\n"
 #
 #	build Pleco single flashcard file
