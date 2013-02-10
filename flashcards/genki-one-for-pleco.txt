@@ -187,3 +187,21 @@ Tシャツ[Tシャツ]	てぃいしゃつ	T-shirt
 ちょっとまってください。[ちょっとまってください。]	ちょっとまってください	Please wait.
 きってください。[きってください。]	きってください	Please listen./Please ask.
 １０ページをみてください。[１０ページをみてください。]	１０ページをみてください	Please loot at page 10.
+// Genki One/Lesson Three/Entertaiment and Sports
+映画[映画]	えいが	movie
+音楽[音楽]	おんがく	music
+雑誌[雑誌]	ざっし	magazine
+スポーツ[スポーツ]	スポーツ	sports
+デート[デート]	デート	romantic date
+テニス[テニス]	テニス	tennis
+テレビ[テレビ]	テレビ	TV
+// Genki One/Lesson Three/Foods and Drinks
+アイスクリーム[アイスクリーム]	アイスクリーム	ice cream
+朝ご飯[朝ご飯]	あさごはん	breakfast
+お酒[お酒]	おさけ	sake; alcohol
+お茶[お茶]	おちゃ	tea
+コーヒー[コーヒー]	コーヒー	coffee
+晩ご飯[晩ご飯]	ばんごはん	dinner
+ハンバーガー[ハンバーガー]	ハンバーガー	hamburger
+昼ご飯[昼ご飯]	ひるごはん	lunch
+水[水]	みず	water

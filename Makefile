@@ -20,7 +20,7 @@ pleco:
 	@-rm -f flashcards/genki-one-for-pleco.txt
 	@echo "Removing old merged files ...             ${CHECK} Done"
 # merge existing files into new one
-	@cat flashcards/greetings.txt flashcards/lesson-one.txt flashcards/lesson-two.txt > flashcards/genki-one-for-pleco.txt
+	@cat flashcards/greetings.txt flashcards/lesson-one.txt flashcards/lesson-two.txt flashcards/lesson-three.txt > flashcards/genki-one-for-pleco.txt
 	@echo "Merging flashcard files ...             ${CHECK} Done"
 	@echo "\n${HR}\n"
 # display summary
