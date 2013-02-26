@@ -16,3 +16,24 @@
 ハンバーガー[ハンバーガー]	ハンバーガー	hamburger
 昼ご飯[昼ご飯]	ひるごはん	lunch
 水[水]	みず	water
+// Genki One/Lesson Three/Places
+家[家]	いえ	home; house
+うち[うち]	うち	home; house; my place
+学校[学校]	がっこう	school
+// Genki One/Lesson Three/Time
+いつ[いつ]	いつ	when
+今日[今日]	きょう	today
+~ごろ[~ごろ]	ごろ	at about ...
+今晚[今晚]	こんばん	tonight
+週末[週末]	しゅうまつ	weekend
+土曜日[土曜日]	どようび	Saturday
+日曜日[日曜日]	にちようび	Sunday
+毎日[毎日]	まいにち	every day
+毎晩[毎晩]	まいばん	every night
+// Genki One/Lesson Three/U-verbs
+行く[行く]	いく	to go (destionation に／へ)
+帰る[帰る]	かえる	to go back; to return (destination に／へ)
+聞く[聞く]	きく	to listen, to hear (~を)
+飲む[飲む]	のむ	to drink (~を)
+話す[話す]	はなす	to speak; to talk (language を／で)
+読む[読む]	よむ	to read (~を)
